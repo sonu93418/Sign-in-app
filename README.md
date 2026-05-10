@@ -1,6 +1,6 @@
 # Sign In — Telecare AI
 
-![Sign In Preview](./assets/images/sign-in-preview.svg)
+![Sign In Preview](./assets/images/WhatsApp%20Image%202026-05-10%20at%204.53.22%20PM%20(1).jpeg)
 
 ## Core Components Used
 
@@ -8,7 +8,7 @@
 - `Text`
 - `TextInput`
 - `TouchableOpacity`
-- `ScrollView`
+ - `ScrollView`
 - `StyleSheet`
 - Material Community Icons from `@expo/vector-icons`
 
