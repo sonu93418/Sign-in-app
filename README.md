@@ -16,7 +16,7 @@ Clean React Native + Expo sign-in screen built with Expo SDK 55 and only core Re
 						<span style="margin-left:auto;color:#777;font-size:12px;">Telecare AI Sign In</span>
 					</div>
 					<div style="padding:18px 22px;display:flex;justify-content:center;background:linear-gradient(180deg,#ffffff 0%,#fbfbfb 100%);">
-						<img src="./assets/images/sign-in-preview.png" alt="Sign In Preview" style="width:390px;max-width:100%;border-radius:12px;box-shadow:0 10px 28px rgba(0,0,0,0.08);" />
+						<img src="./assets/images/sign-in-preview.svg" alt="Sign In Preview" style="width:390px;max-width:100%;border-radius:12px;box-shadow:0 10px 28px rgba(0,0,0,0.08);" />
 					</div>
 				</div>
 			</td>
@@ -70,4 +70,4 @@ npm start
 
 ## Screenshot
 
-The screenshot is attached above in the preview frame and also stored in `assets/images/sign-in-preview.png`.
+The screenshot is attached above in the preview frame and also stored in `assets/images/sign-in-preview.svg`.
