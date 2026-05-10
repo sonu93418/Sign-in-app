@@ -1,6 +1,6 @@
 # Sign In — Telecare AI
 
-![Sign In Preview](./assets/images/WhatsApp%20Image%202026-05-10%20at%204.53.22%20PM%20(1).jpeg)
+<img src="./assets/images/WhatsApp Image 2026-05-10 at 4.53.22 PM (1).jpeg" alt="Sign In Preview" />
 
 ## Core Components Used
 
